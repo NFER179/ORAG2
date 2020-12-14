@@ -1,0 +1,4 @@
+METODO, TIEMPO(CLOCK)
+Con un solo hilo,0.030117
+Con multiples hilos,0.000000
+Con SASM,0.057041
